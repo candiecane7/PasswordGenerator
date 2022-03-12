@@ -28,4 +28,4 @@ HTML, CSS, JAVASCRIPT
 https://candiecane7.github.io/PasswordGenerator/
 
 ## Screenshot
-[my image](assets/images/Screenshot 2022-03-12 142805.png)
+[my image](assets/images/Screenshot.png)
