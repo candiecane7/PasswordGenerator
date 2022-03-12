@@ -21,9 +21,11 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-#Built With
+# Built With
 HTML, CSS, JAVASCRIPT
 
-#Website
+# Website
 https://candiecane7.github.io/PasswordGenerator/
+
+# Screenshot
 ![Alt text](./assets/images/Screenshot 2022-03-12 142805.png)
