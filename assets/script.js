@@ -47,8 +47,6 @@ var generatePassword = function () {
   // this will separate all the characters from eachother
   selection = selection.join("");
 
-
-
   //for loop that will choose as many characters as the prompt input that was chosen
   var finalPass = []
   for (x = 1; x <= passLength; x++) {
