@@ -1,5 +1,10 @@
 # Password Generator Starter Code
 
+# Purpose
+
+This assignment was to create the code to generate a password that varied based on user prompts for password length and types of characters wanted in the password. I have satisfied all of the below criteria.
+
+# Criteria
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -15,3 +20,10 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+#Built With
+HTML, CSS, JAVASCRIPT
+
+#Website
+https://candiecane7.github.io/PasswordGenerator/
+![Alt text](./assets/images/Screenshot 2022-03-12 142805.png)
